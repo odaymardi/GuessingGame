@@ -1,0 +1,35 @@
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ASP.NET User Secrets
+secrets.json
+
+# Environment-specific settings
+appsettings.*.json
+
+# Test results
+TestResults/
+
+# Other
+*.db
+*.sqlite
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
